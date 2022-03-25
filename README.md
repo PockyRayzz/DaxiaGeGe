@@ -78,8 +78,13 @@
 * 突破边界，规避日志溯源
 * 操作内部接口，实现RCE
 
-## POC - SSTI to SSRF to RCE
--- 稍累，明天中午上传
+## POC
+(VPN_SSTI_TO_SSRF_bandicam 2022-03-25 11-23-14-368.mp4)
+
 <a href="DaXia-20220322/poc/poc.mp4" download>下载POC视频</a>
 
 ## EXP
+
+<a href="DaXia-20220322/exp/exp.py" download>下载EXP</a>
+
+* 联系我获取解密密码
