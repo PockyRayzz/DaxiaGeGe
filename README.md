@@ -4,11 +4,11 @@
 边界-中间件:
 
 * 零信任 aTrust
-  * SSTI漏洞内网漫游 (0day)(NFT), DaXia-20220315
-  * 后台配置接口RCE (0day), DaXia-20220324
+  * SSTI漏洞内网漫游 (0day)(NFT), DaXia-20220315 (POC放出)
+  * 后台配置接口RCE (0day), DaXia-20220324  (POC制作中...)
 
 * VPN
-  * SSTI漏洞内网漫游 (0day), DaXia-20220322
+  * SSTI漏洞内网漫游 (0day), DaXia-20220322 (POC放出)
 
 
 # DaXia-20220315
